@@ -1,21 +1,6 @@
-#todas as bibliotecas
-#https://rstudio.com/products/rpackages/
-install.packages("stringr")
-install.packages("tidyverse")
-installed.packages("readr")
-install.packages("ggplot2")
-install.packages("rmarkdown")
-install.packages("shiny")
-
-#usando Banco de Dados 
-#https://github.com/r-dbi/RPostgres/
-install.packages("RPostgres")
-
-library(ggplot2)
 print("olá mundo")
 #https://www.statmethods.net/input/dates.html
 
-library("stringr")
 teste <- 'olá'
 teste
 iconv(tes, from="UTF-8", to="latin1//TRANSLIT")
