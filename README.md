@@ -2,4 +2,4 @@
 
 ## aqui vou trazer bibliotecas e scripts para ajudar no dia a dia
 
-![R](https://lh3.googleusercontent.com/proxy/ZAmgHPwm-WOmscsODdI7s9tnumOoFshE1WjdzluAaTvCzIOIzUXr8wUxCvvtEylNANcttXPcdz4sdjD29gal6OIrrM-s1Wk)
+![R](https://cryptoid.com.br/wp-content/uploads/2018/10/iStock-871148930-1440x564_c.jpg)
