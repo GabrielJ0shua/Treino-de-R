@@ -22,7 +22,7 @@ iconv(tes, from="UTF-8", to="latin1//TRANSLIT")
 #locale =(teste, locale(encoding = 'latin1'))
 teste
 
-read_delim("RO_Mun_BR_AIC_2017_01012017_25032019.csv", #a função read_dlim carrega os valores do arquivo csv na memória do R
+read_delim("nome_arq.csv", #a função read_dlim carrega os valores do arquivo csv na memória do R
            ";",
            escape_double = FALSE,
            locale = locale(date_names = "pt",
