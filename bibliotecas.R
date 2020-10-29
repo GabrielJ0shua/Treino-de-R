@@ -9,6 +9,6 @@ install.packages("shiny")
 
 #usando Banco de Dados 
 #https://github.com/r-dbi/RPostgres/
-install.packages("RPostgres")
+install.packages("RPostgreSQL")
 
 #Instale todas para começar a brincar.
